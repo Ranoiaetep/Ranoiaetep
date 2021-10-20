@@ -42,7 +42,6 @@ jobs:
           plugin_languages_categories: markup, programming
           plugin_languages_colors: github
           plugin_languages_ignored: html
-          plugin_languages_indepth: no
           plugin_languages_limit: 12
           plugin_languages_recent_categories: markup, programming
           plugin_languages_recent_days: 14
@@ -51,6 +50,7 @@ jobs:
           plugin_languages_threshold: 0%
           plugin_lines: yes
           plugin_stackoverflow: yes
+          plugin_stackoverflow_user: 12861639
           plugin_stackoverflow_limit: 2
           plugin_stackoverflow_lines: 4
           plugin_stackoverflow_lines_snippet: 2
