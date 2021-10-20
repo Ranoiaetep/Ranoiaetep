@@ -1,3 +1,9 @@
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ranoiaetep&count_private=true&show_icons=true&theme=buefy&include_all_commits=true)
+
+![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ranoiaetep&layout=compact&theme=buefy)
+![Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Ranoiaetep&count_private=true&show_icons=true&theme=buefy&layout=compact&hide=html)
+
+
 ![Red Panda](./RedPanda.jpg)
 
 <!--
