@@ -18,8 +18,11 @@ jobs:
           # Options
           user: Ranoiaetep
           template: classic
-          format: json
           base: header
+          config_order: base.header, wakatime
+          config_padding: 0, 0
+          config_display: columns
+          use_prebuilt_image: yes
           config_timezone: America/New_York
           plugin_achievements: yes
           plugin_achievements_display: compact
