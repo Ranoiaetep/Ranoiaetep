@@ -1,9 +1,10 @@
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ranoiaetep&count_private=true&show_icons=true&include_all_commits=true)
+<img src="https://github-readme-stats.vercel.app/api?username=Ranoiaetep&count_private=true&show_icons=true&include_all_commits=true" alt="GitHub Stats" width="480px" max-width="100%"/>
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ranoiaetep&count_private=true&show_icons=true&include_all_commits=true) -->
 
 ![GitHub Metrics](https://raw.githubusercontent.com/Ranoiaetep/Ranoiaetep/main/github-metrics.svg)
 
-<img src="./RedPanda.jpg" alt="Red Panda" width="50%"/>
+<img src="./RedPanda.jpg" alt="Red Panda" width="480px" max-width="100%"/>
 
 <!--
 **Ranoiaetep/Ranoiaetep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
