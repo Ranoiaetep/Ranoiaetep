@@ -18,10 +18,10 @@ jobs:
           # Options
           user: Ranoiaetep
           template: classic
-          base: header
+          base: header, repositories
           config_order: base.header, wakatime
           config_padding: 0, 0
-          config_display: columns
+          config_display: regular
           use_prebuilt_image: yes
           config_timezone: America/New_York
           plugin_achievements: yes
