@@ -51,6 +51,7 @@ jobs:
           plugin_stackoverflow_lines: 4
           plugin_stackoverflow_lines_snippet: 2
           plugin_stackoverflow_sections: answers-top, questions-recent
+          plugin_wakatime: yes
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
           plugin_wakatime_days: 7
           plugin_wakatime_sections: time, languages, languages-graphs
