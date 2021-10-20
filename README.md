@@ -1,11 +1,13 @@
-<!--
+<!-- 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ranoiaetep&count_private=true&show_icons=true&theme=buefy&include_all_commits=true)
 
 ![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ranoiaetep&layout=compact&theme=buefy)
 ![Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Ranoiaetep&count_private=true&show_icons=true&theme=buefy&layout=compact&hide=html)
--->
-![GitHub Metrics](https://raw.githubusercontent.com/Ranoiaetep/Ranoiaetep/main/github-metrics.svg)
-![Red Panda](./RedPanda.jpg)
+  -->
+<img src="https://raw.githubusercontent.com/Ranoiaetep/Ranoiaetep/main/github-metrics.svg" alt="GitHub Metrics" width="50%" valign="top"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api?username=Ranoiaetep&count_private=true&show_icons=true&theme=buefy&include_all_commits=true" alt="GitHub Readme Stats" width="40%" valign="top" float="right"/>
+
+<img src="./RedPanda.jpg" alt="Red Panda" width="50%"/>
 
 <!--
 **Ranoiaetep/Ranoiaetep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
