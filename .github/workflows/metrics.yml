@@ -18,6 +18,7 @@ jobs:
           # Options
           user: Ranoiaetep
           template: classic
+          format: json
           base: header
           config_timezone: America/New_York
           plugin_achievements: yes
