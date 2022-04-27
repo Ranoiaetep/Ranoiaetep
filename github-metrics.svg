@@ -439,16 +439,6 @@
                     <section class="column chart">
                         <h3>Language activity</h3>
                         <div class="chart-bars horizontal">
-                            <div class="entry">
-                                <span class="name">HTML</span>
-                                <div class="bar" style="width: 29.563801326043972%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">37%</span>
-                            </div>
-                            <div class="entry">
-                                <span class="name">SCSS</span>
-                                <div class="bar" style="width: 0.38618122600907295%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">0%</span>
-                            </div>
                         </div>
                     </section>
                 </div>
@@ -2134,7 +2124,7 @@ But is it true? Is it possible for it to create something of a totally different
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 966k out of 89m users</span>
+                                    <span class="gh">ranked 967k out of 89m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">32</div>
                                     </div>
